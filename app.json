@@ -7,7 +7,8 @@
     "name": "HighOn",
     "slug": "HighOn",
     "plugins": [
-      "expo-router"
+      "expo-router",
+        "expo-image-picker"
     ]
   }
 }
